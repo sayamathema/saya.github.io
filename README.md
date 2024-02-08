@@ -7,3 +7,4 @@ Project managers are routinely tasked with handling uncertainty, to the point th
 It’s easy to see why Kanban has become an essential project management tool. As a lightweight and adaptable workflow method, it offers fit-for-purpose solutions that I’ve applied on projects across diverse industries, ranging from finance to energy to consumer markets. Kanban is capable of handling workflows on its own, but is particularly suited to being hybridized with other frameworks, scaling to an enterprise level, or even serving as the bridge to take organizations from Waterfall to Agile processes.
 
 Circle charts with Kanban usage statistics, importantly, 86% of organizations plan to expand their Kanban initiatives in 2023.
+![alt text](image.jpg) ![image](https://github.com/sayamathema/saya.github.io/assets/110393954/4da59274-0317-4ff4-8fe9-315848fb3cda)
