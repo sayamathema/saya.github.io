@@ -21,3 +21,13 @@ Applying this principle to factory production proved relatively simple: For each
 
 ![image](https://github.com/sayamathema/saya.github.io/assets/110393954/b7e7c589-aa47-4af9-a9b7-c816be7636b9)
 
+## Kanban Board History: From the Factory Floor to the Whiteboard
+In 2010, Microsoft engineer David J. Anderson published Kanban: Successful Evolutionary Change for Your Technology Business, which built on the work of Ohno and others to apply the principles of Kanban to software development. Central to this framework was the use of the Kanban board: This visual representation of a task’s journey through the production process reenvisioned the manufacturing model for software development. Instead of attaching the card to a physical object, the card is moved between one of several columns representing the task’s progress.
+
+Anderson also laid out (and later expanded) core practices for Kanban:
+
+- **Visualize the flow of work.** This is where the Kanban board is used in practice; it works from the premise that a visible workflow is more manageable and more easily tracked among users.
+- **Manage flow.** Kanban enables tasks to move through each stage in the workflow with speed and efficiency.
+- **Make policies explicit.** Kanban empowers teams with transparency; it helps individuals and teams understand how, why, and when work is done.
+- **Implement feedback loops.** A Kanban team makes regular process and policy adjustments based on the results of review sessions.
+- **Improve collaboratively, evolve experimentally.** The combined effects of increased transparency from a visualized workflow and the regular self-assessment of feedback loops create an environment in which teams work together to improve performance.
