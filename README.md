@@ -55,8 +55,8 @@ Sensing individuals prefer to focus on the present and concrete details. They ar
 ##### Judging and Perceiving  
 We also found that people with perceiving traits compared with people havingjuding traits to have better posture. Individuals with a Judging preference tend to be organized, structured, and decisive in their approach to life. They like planning, making schedules, and having a clear framework for tasks. J types often prefer closure and enjoy having things settled. They are typically goal-oriented, focused on achieving objectives, and may feel more comfortable when tasks are planned and organized. Perceiving individuals, on the other hand, are more flexible, spontaneous, and adaptable. They prefer to go with the flow, keeping options open rather than settling quickly. P types often enjoy exploration, improvisation, and may postpone decision-making until they gather more information. They are generally more comfortable with uncertainty and enjoy the freedom to adapt to changing circumstances.
 ﻿ 
-
   ![image](https://github.com/sayamathema/posture-personality/assets/110393954/5146be51-361d-4929-a403-0852e3e33ae0)
+  
 Sum of PAIN 1 and total Sum of PAIN 4 are negatively correlated with each other. C had 33 Sum of PAIN 1, 40 Sum of PAIN 4, and 24 Sum of PAIN 3. ﻿B had 91 Sum of PAIN 1, 98.50 Sum of PAIN 4, and 79 Sum of PAIN 3. A had 42 Sum of PAIN 1, 47 Sum of PAIN 4, and 30 Sum of PAIN 3. D had 41.50 Sum of PAIN 1, 60 Sum of PAIN 4, and 55.50 Sum of PAIN 3. ﻿At 91, B had the highest Sum of PAIN 1 and was 175.76% higher than C, which had the lowest Sum of PAIN 1 at 33.﻿﻿
 ﻿﻿
 ﻿﻿Sum of PAIN 1 and total Sum of PAIN 4 are positively correlated with each other.﻿﻿
