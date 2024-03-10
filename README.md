@@ -44,11 +44,27 @@ It could be that those with extroverts' tendency to engage more actively in soci
 
 ![image](https://github.com/sayamathema/posture-personality/assets/110393954/38838d12-d83d-43cd-820e-509925a18497)
 
-Analysing the Feeling, Sensing and Thinking aspect, it shows that those with Sensing traits have the most Posture A. Sensing traits might be more attentive to their immediate surroundings and physical sensations, contributing to awareness of posture. Sum of PAIN 1 and total Sum of PAIN 4 are negatively correlated with each other. C had 33 Sum of PAIN 1, 40 Sum of PAIN 4, and 24 Sum of PAIN 3. ﻿B had 91 Sum of PAIN 1, 98.50 Sum of PAIN 4, and 79 Sum of PAIN 3. 
+##### Feeling, Thinking and Sensing
+Analysing the Feeling, Sensing and Thinking aspect, it shows that those with Sensing traits have the most Posture A. Sensing traits might be more attentive to their immediate surroundings and physical sensations, contributing to awareness of posture.
+Individuals with a Feeling preference make decisions based on personal values and the impact on people. They tend to consider the emotional aspects of a situation, prioritize harmony, and value interpersonal relationships. F types often seek consensus and may make decisions with a focus on empathy and compassion.
+Thinking individuals make decisions based on logic, analysis, and objective criteria. They prioritize fairness, consistency, and objective facts over personal values. T types may appear more detached or analytical in decision-making, relying on reason rather than emotional considerations.
+Sensing individuals prefer to focus on the present and concrete details. They are practical, realistic, and observant of their immediate surroundings. S types often rely on information obtained through their senses and are adept at dealing with tangible, real-world data. They value hands-on experience and tend to be more grounded in the present moment.
+
+
+##### Judging and Perceiving  
+We also found that people with perceiving traits compared with people havingjuding traits to have better posture. Individuals with a Judging preference tend to be organized, structured, and decisive in their approach to life. They like planning, making schedules, and having a clear framework for tasks. J types often prefer closure and enjoy having things settled. They are typically goal-oriented, focused on achieving objectives, and may feel more comfortable when tasks are planned and organized. Perceiving individuals, on the other hand, are more flexible, spontaneous, and adaptable. They prefer to go with the flow, keeping options open rather than settling quickly. P types often enjoy exploration, improvisation, and may postpone decision-making until they gather more information. They are generally more comfortable with uncertainty and enjoy the freedom to adapt to changing circumstances.
+﻿ 
 
 ![image](https://github.com/sayamathema/posture-personality/assets/110393954/75afefe1-e2b5-4de7-bed1-1516e5d096c7)
 
-![image](https://github.com/sayamathema/posture-personality/assets/110393954/5146be51-361d-4929-a403-0852e3e33ae0)
+Sum of PAIN 1 and total Sum of PAIN 4 are negatively correlated with each other. C had 33 Sum of PAIN 1, 40 Sum of PAIN 4, and 24 Sum of PAIN 3. ﻿B had 91 Sum of PAIN 1, 98.50 Sum of PAIN 4, and 79 Sum of PAIN 3. A had 42 Sum of PAIN 1, 47 Sum of PAIN 4, and 30 Sum of PAIN 3. D had 41.50 Sum of PAIN 1, 60 Sum of PAIN 4, and 55.50 Sum of PAIN 3. ﻿At 91, B had the highest Sum of PAIN 1 and was 175.76% higher than C, which had the lowest Sum of PAIN 1 at 33.﻿﻿
+﻿﻿
+﻿﻿Sum of PAIN 1 and total Sum of PAIN 4 are positively correlated with each other.﻿﻿
+﻿﻿
+﻿﻿B accounted for 43.86% of Sum of PAIN 1.﻿﻿
+﻿﻿
+﻿﻿Across all 4 POSTURE, Sum of PAIN 1 ranged from 33 to 91, Sum of PAIN 4 ranged from 40 to 98.50, and Sum of PAIN 3 ranged from 24 to 79.﻿﻿.
+  ![image](https://github.com/sayamathema/posture-personality/assets/110393954/5146be51-361d-4929-a403-0852e3e33ae0)
 
 
 ![image](https://github.com/sayamathema/posture-personality/assets/110393954/d376e3a1-c480-4891-bd7a-9c45b904afb8)
