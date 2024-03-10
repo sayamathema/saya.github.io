@@ -44,7 +44,7 @@ It could be that those with extroverts' tendency to engage more actively in soci
 
 ![image](https://github.com/sayamathema/posture-personality/assets/110393954/38838d12-d83d-43cd-820e-509925a18497)
 
-Analysing the Feeling, Sensing and Thinking aspect, it shows that those with Sensing traits have the most Posture A. Sensing traits might be more attentive to their immediate surroundings and physical sensations, contributing to awareness of posture. 
+Analysing the Feeling, Sensing and Thinking aspect, it shows that those with Sensing traits have the most Posture A. Sensing traits might be more attentive to their immediate surroundings and physical sensations, contributing to awareness of posture. Sum of PAIN 1 and total Sum of PAIN 4 are negatively correlated with each other. C had 33 Sum of PAIN 1, 40 Sum of PAIN 4, and 24 Sum of PAIN 3. ﻿B had 91 Sum of PAIN 1, 98.50 Sum of PAIN 4, and 79 Sum of PAIN 3. 
 
 ![image](https://github.com/sayamathema/posture-personality/assets/110393954/75afefe1-e2b5-4de7-bed1-1516e5d096c7)
 
