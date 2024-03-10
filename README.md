@@ -1,4 +1,4 @@
-# Posture-Personality
+# Decoding the Relation Between Posture, Personality, and Pain 
 
 Are you a **hunchbacked hermit** or a **power-posing** peacock? We explore the science behind how you stand and how it reflects who you are (without the awkward staring!). 
 Work-related back pain is a prevalent condition that frequently impacts the workforce, leading to disability, increased healthcare needs, and a significant socioeconomic impact. Despite the ongoing mystery surrounding the origin of occupational pain, there is anecdotal evidence suggesting that both personality and posture play roles in the prolonged management of pain, indicating a direct influence of the mind-body axis. This study aims to thoroughly examine the connections between posture and personality.
@@ -57,12 +57,18 @@ We also found that people with perceiving traits compared with people havingjudi
 ﻿ 
   ![image](https://github.com/sayamathema/posture-personality/assets/110393954/5146be51-361d-4929-a403-0852e3e33ae0)
   
-Sum of PAIN 1 and total Sum of PAIN 4 are negatively correlated with each other. C had 33 Sum of PAIN 1, 40 Sum of PAIN 4, and 24 Sum of PAIN 3. ﻿B had 91 Sum of PAIN 1, 98.50 Sum of PAIN 4, and 79 Sum of PAIN 3. A had 42 Sum of PAIN 1, 47 Sum of PAIN 4, and 30 Sum of PAIN 3. D had 41.50 Sum of PAIN 1, 60 Sum of PAIN 4, and 55.50 Sum of PAIN 3. ﻿At 91, B had the highest Sum of PAIN 1 and was 175.76% higher than C, which had the lowest Sum of PAIN 1 at 33.﻿﻿
-﻿﻿
-﻿﻿Sum of PAIN 1 and total Sum of PAIN 4 are positively correlated with each other.﻿﻿
-﻿﻿
-﻿﻿B accounted for 43.86% of Sum of PAIN 1.﻿﻿
-﻿﻿
-﻿﻿Across all 4 POSTURE, Sum of PAIN 1 ranged from 33 to 91, Sum of PAIN 4 ranged from 40 to 98.50, and Sum of PAIN 3 ranged from 24 to 79.﻿﻿.
+## POSTURE TYPE AND PAIN
+**Introduction:**
+Embarking on the intriguing exploration of pain and posture analysis, we dissect four distinct types of discomfort – Neck Pain, Thoracic Pain, Lumbar Pain, and Sacral Pain, each tethered to specific regions of the body. With Neck Pain (PAIN 1), Thoracic Pain (PAIN 2), Lumbar Pain (PAIN 3), and Sacral Pain (PAIN 4) as our focal points, this investigation seeks to unravel correlations, disparities, and captivating patterns within the intricate tapestry of physiology. Our journey through the complexities of posture and its impact on pain unveils a compelling narrative, where the physical and perceptual converge.
+
+**Body:**
+Our analysis unravels a spectrum of correlations and disparities among the four types of pain, with a particular focus on Neck Pain (PAIN 1) and Sacral Pain (PAIN 4). The negative correlation between the sum of Neck Pain and the total sum of Sacral Pain hints at a nuanced relationship, challenging conventional expectations. A meticulous examination of individual postures – A, B, C, and D – further illuminates the intricacies of this interplay. Notably, Posture B emerges as a significant contributor, commanding 43.86% of the sum of Neck Pain, showcasing a substantial impact on pain perception.
+
+Diving deeper into the nuances, Posture B stands out with the highest Sum of Neck Pain at 91, a staggering 175.76% higher than the lowest, attributed to Posture C at 33. As we traverse the entire spectrum of postures, from the pinnacle of Posture A to the nadir of Posture D, the variations in Neck Pain, Sacral Pain, and Lumbar Pain underscore the intricate dance between body mechanics and discomfort. Thoracic Pain introduces an additional layer of complexity, spanning from 30 to 153 across all postures, contributing to the multifaceted nature of our investigation.
+
+Unveiling a fascinating twist, Posture B, Posture C, and Posture D collectively experience Neck Pain at its highest and Lumbar Pain at its lowest, adding a layer of intrigue to our understanding of the intricate relationship between posture and pain. This reveals a dynamic interaction, challenging preconceived notions and inviting a deeper exploration into the complexities of the mind-body axis.
+
+**Conclusion:**
+In the realm where posture and pain intersect, our analysis illuminates a complex tapestry of relationships, challenges, and unexpected patterns. The negative correlation between Neck Pain and total Sacral Pain prompts us to reconsider conventional wisdom, while the dominance of Posture B in influencing pain perception invites further inquiry. As we navigate the landscape of Posture A, Posture B, Posture C, and Posture D, each unveiling its unique imprint on pain experiences, our understanding deepens, leaving us poised on the precipice of further exploration into the intricate dance between the physical and the perceptual. 
 
 ![image](https://github.com/sayamathema/posture-personality/assets/110393954/d376e3a1-c480-4891-bd7a-9c45b904afb8)
